@@ -6,7 +6,7 @@
 
 ---
 
-## 1 · User Stories (20 điểm)
+## 1 · User Stories 
 
 ### 👤 Student (Sinh viên)
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 2 · Sơ đồ lớp (15 điểm)
+## 2 · Sơ đồ lớp 
 
 ```mermaid
 classDiagram
@@ -124,7 +124,7 @@ classDiagram
 
 ---
 
-## 3 · Domain Classes (35 điểm)
+## 3 · Domain Classes 
 
 Xem thư mục [`Domain/`](./Domain):
 
@@ -156,7 +156,7 @@ public class Student
 
 ---
 
-## 4 · Console Demo (20 điểm)
+## 4 · Console Demo 
 
 Xem [`Program.cs`](./Program.cs) – chạy đủ các luồng:
 
@@ -175,7 +175,7 @@ dotnet run
 
 ---
 
-## 5 · Git và PR (10 điểm)
+## 5 · Git và PR 
 
 Commits theo [Conventional Commits](https://www.conventionalcommits.org/):
 
