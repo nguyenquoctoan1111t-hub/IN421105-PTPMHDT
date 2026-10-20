@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ClubManager.Application/ClubManager.Application.csproj" />
+  <Project Path="ClubManager.Console/ClubManager.Console.csproj" />
+  <Project Path="ClubManager.Domain/ClubManager.Domain.csproj" />
+  <Project Path="ClubManager.Infrastructure/ClubManager.Infrastructure.csproj" />
+  <Project Path="ClubManager.Tests/ClubManager.Tests.csproj" />
+</Solution>
